@@ -169,6 +169,11 @@ small {
 }
 
 /* ----------event info styles----------------- */
+
+a {
+    color: white;
+    font-weight: 700;
+}
 .block-info-1 {
     position: relative;
     /* display: inline-block; */
