@@ -58,6 +58,7 @@ h3{
 p {
     font-size: 1em;
     font-weight: 300;
+    
 }
 
 
@@ -166,6 +167,7 @@ small {
     height: auto;
 
 }
+
 /* ----------event info styles----------------- */
 .block-info-1 {
     position: relative;
